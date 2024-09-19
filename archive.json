@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-09-17T00:39:14.893147+00:00",
+  "timestamp": "2024-09-19T00:48:29.636367+00:00",
   "repo": "ietf-wg-nmop/draft-ietf-nmop-network-anomaly-architecture",
   "labels": [
     {
@@ -79,6 +79,23 @@
       "color": "B9B881"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOMvBtgc6XBspD",
+      "title": "racking faults may not be sufficient to detect problems & proactively prevent  incidents",
+      "url": "https://github.com/ietf-wg-nmop/draft-ietf-nmop-network-anomaly-architecture/issues/1",
+      "state": "OPEN",
+      "author": "boucadair",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "> > (4) Tracking faults may not be sufficient to detect problems\r\n> and\r\n> > proactively prevent  incidents. For example, performance\r\n> degradation\r\n> > may not be detected with usual  fault management.\r\n> \r\n> Hmmm. I'm not clear what you are proposing here.\r\n> I would say that there is a good deal of policy at every stage\r\n> ...\r\n> - Not every Event is an Occurrence\r\n> - Not every Occurrence is indicative of a Fault\r\n> - Not every Fault gives rise to a Problem, and a Problem may\r\n> arise from a set of Faults\r\n> - Not every Problem results in an Incident, and an Incident may\r\n> derive from multiple Problems All of those steps need \"value\r\n> judgements\" also known as Policy.\r\n> \r\n> While \"Incident Prevention\" is highly desirable, it may not be\r\n> easy to achieve because:\r\n> - A single Event may lead directly to an Incident. No scope for\r\n> detecting a potential escalation and preventing the Incident. All\r\n> that remains is remedial action.\r\n> - There is need for a knowledge base (possibly feeding ML) to map\r\n> a \"non-obvious\" set of Events into an imminent Incident.\r\n> \r\n> This is all good material for discussion, but perhaps it does not\r\n> belong in a terminology document? Something for the anomaly\r\n> framework?\r\n> \r\n\r\n[Med] You are probably right that some of this can be captured in the anomaly framework. \r\n",
+      "createdAt": "2024-09-18T13:47:40Z",
+      "updatedAt": "2024-09-18T14:11:46Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
