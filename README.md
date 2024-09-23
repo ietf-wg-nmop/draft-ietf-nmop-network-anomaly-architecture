@@ -1,6 +1,6 @@
-# TODO - Your title
+# An Architecture for a Network Anomaly Detection Framework
 
-This is the working area for the IETF [NMOP Working Group](https://datatracker.ietf.org/wg/nmop/documents/) Internet-Draft, "TODO - Your title".
+This is the working area for the IETF [NMOP Working Group](https://datatracker.ietf.org/wg/nmop/documents/) Internet-Draft, "An Architecture for a Network Anomaly Detection Framework".
 
 * [Editor's Copy](https://ietf-wg-nmop.github.io/draft-ietf-nmop-network-anomaly-architecture/#go.draft-ietf-nmop-network-anomaly-architecture.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture)
