@@ -699,9 +699,9 @@ Table of Contents
               Havel, O., Claise, B., de Dios, O. G., Elhassany, A., and
               T. Graf, "Modeling the Digital Map based on RFC 8345:
               Sharing Experience and Perspectives", Work in Progress,
-              Internet-Draft, draft-havel-nmop-digital-map-01, 5 July
-              2024, <https://datatracker.ietf.org/doc/html/draft-havel-
-              nmop-digital-map-01>.
+              Internet-Draft, draft-havel-nmop-digital-map-02, 21
+              October 2024, <https://datatracker.ietf.org/doc/html/
+              draft-havel-nmop-digital-map-02>.
 
    [I-D.havel-nmop-digital-map-concept]
               Havel, O., Claise, B., de Dios, O. G., and T. Graf,
@@ -715,25 +715,25 @@ Table of Contents
               Davis, N., Farrel, A., Graf, T., Wu, Q., and C. Yu, "Some
               Key Terms for Network Fault and Problem Management", Work
               in Progress, Internet-Draft, draft-ietf-nmop-terminology-
-              05, 12 September 2024,
+              10, 21 January 2025,
               <https://datatracker.ietf.org/doc/html/draft-ietf-nmop-
-              terminology-05>.
+              terminology-10>.
 
    [I-D.netana-nmop-network-anomaly-lifecycle]
               Riccobene, V., Roberto, A., Graf, T., Du, W., and A. H.
-              Feng, "Experiment: Network Anomaly Lifecycle", Work in
+              Feng, "An Experiment: Network Anomaly Lifecycle", Work in
               Progress, Internet-Draft, draft-netana-nmop-network-
-              anomaly-lifecycle-03, 8 July 2024,
+              anomaly-lifecycle-05, 3 November 2024,
               <https://datatracker.ietf.org/doc/html/draft-netana-nmop-
-              network-anomaly-lifecycle-03>.
+              network-anomaly-lifecycle-05>.
 
    [I-D.netana-nmop-network-anomaly-semantics]
               Graf, T., Du, W., Feng, A. H., Riccobene, V., and A.
               Roberto, "Semantic Metadata Annotation for Network Anomaly
               Detection", Work in Progress, Internet-Draft, draft-
-              netana-nmop-network-anomaly-semantics-02, 8 July 2024,
+              netana-nmop-network-anomaly-semantics-04, 3 November 2024,
               <https://datatracker.ietf.org/doc/html/draft-netana-nmop-
-              network-anomaly-semantics-02>.
+              network-anomaly-semantics-04>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
